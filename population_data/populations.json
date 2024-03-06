@@ -1,0 +1,128 @@
+[
+    {
+        "id": 1,
+        "age_range": "0-4",
+        "male_population": 9388285,
+        "female_population": 9011950
+    },
+    {
+        "id": 2,
+        "age_range": "5-9",
+        "male_population": 10288218,
+        "female_population": 9842205
+    },
+    {
+        "id": 3,
+        "age_range": "10-14",
+        "male_population": 11066169,
+        "female_population": 10561661
+    },
+    {
+        "id": 4,
+        "age_range": "15-19",
+        "male_population": 11241567,
+        "female_population": 10794509
+    },
+    {
+        "id": 5,
+        "age_range": "20-24",
+        "male_population": 11265350,
+        "female_population": 10900849
+    },
+    {
+        "id": 6,
+        "age_range": "25-29",
+        "male_population": 11229510,
+        "female_population": 11071744
+    },
+    {
+        "id": 7,
+        "age_range": "30-34",
+        "male_population": 11241831,
+        "female_population": 11291581
+    },
+    {
+        "id": 8,
+        "age_range": "35-39",
+        "male_population": 10857087,
+        "female_population": 11017857
+    },
+    {
+        "id": 9,
+        "age_range": "40-44",
+        "male_population": 10028183,
+        "female_population": 10281010
+    },
+    {
+        "id": 10,
+        "age_range": "45-49",
+        "male_population": 9920816,
+        "female_population": 10224478
+    },
+    {
+        "id": 11,
+        "age_range": "50-54",
+        "male_population": 10176612,
+        "female_population": 10546900
+    },
+    {
+        "id": 12,
+        "age_range": "55-59",
+        "male_population": 10759761,
+        "female_population": 11360728
+    },
+    {
+        "id": 13,
+        "age_range": "60-64",
+        "male_population": 10223302,
+        "female_population": 11064617
+    },
+    {
+        "id": 14,
+        "age_range": "65-69",
+        "male_population": 8634739,
+        "female_population": 9653988
+    },
+    {
+        "id": 15,
+        "age_range": "70-74",
+        "male_population": 6881732,
+        "female_population": 7941506
+    },
+    {
+        "id": 16,
+        "age_range": "75-79",
+        "male_population": 4475564,
+        "female_population": 5479758
+    },
+    {
+        "id": 17,
+        "age_range": "80-84",
+        "male_population": 2721048,
+        "female_population": 3667731
+    },
+    {
+        "id": 18,
+        "age_range": "85-89",
+        "male_population": 1494421,
+        "female_population": 2334758
+    },
+    {
+        "id": 19,
+        "age_range": "90-94",
+        "male_population": 626847,
+        "female_population": 1249444
+    },
+    {
+        "id": 20,
+        "age_range": "95-99",
+        "male_population": 147792,
+        "female_population": 403034
+    },
+    {
+        "id": 21,
+        "age_range": "100+",
+        "male_population": 16977,
+        "female_population": 63162
+    }
+]
